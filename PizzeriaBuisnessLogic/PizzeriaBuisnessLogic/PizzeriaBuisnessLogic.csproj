@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="PizzeriaListImplement">
+      <HintPath>..\..\PizzeriaListImplement1\PizzeriaListImplement1\bin\Debug\netstandard2.0\PizzeriaListImplement.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

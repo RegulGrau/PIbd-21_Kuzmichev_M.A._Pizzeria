@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="PizzeriaBuisnessLogic">
+      <HintPath>..\..\PizzeriaBuisnessLogic\PizzeriaBuisnessLogic\bin\Debug\netstandard2.0\PizzeriaBuisnessLogic.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
